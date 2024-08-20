@@ -1,4 +1,4 @@
-# BackGammon-AI-Model
+# BackGammonAI
 
 This repository contains the code and models for a Backgammon AI that provides move predictions at three different difficulty levels: easy, medium, and hard. The AI models are built using TensorFlow and trained on Backgammon game data. The repository includes scripts for training the models and for generating predictions from a given board state.
 
